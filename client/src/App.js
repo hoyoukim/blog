@@ -1,3 +1,4 @@
+
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 
@@ -56,6 +57,7 @@ function App() {
             <input name='text1' />
             <input type='submit' value='추가'/>
           </p>
+          
       </form>
         <h1></h1>
         </div>
